@@ -1,0 +1,51 @@
+@media screen and (max-width: 768px) {
+  .home {
+    div{
+        h1 {
+            font-size: 35px;
+            position: relative;
+        
+          }
+          p {
+            display: none;
+          }
+          >div{
+            .btn{
+                margin: 5%;
+                padding: 10px;
+            }
+          }
+    }
+  }
+}
+
+@media screen and (max-width: 768px){
+    .Header {
+      
+        > img {
+            height: 100%;
+            cursor: pointer;
+        }
+        > div {
+            display: flex;
+            overflow-x: auto;
+      
+          > a {
+            margin: 2vmax;
+            font-size: 1.2rem;
+            font-weight: 300;
+          }
+        }
+      
+        > svg {
+          color: white;
+          font-size: 2rem;
+          cursor: pointer;
+      
+          &:hover {
+            color: rgb(216, 216, 216);
+          }
+        }
+      }
+      
+}
