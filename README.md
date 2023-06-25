@@ -25,7 +25,7 @@ To run the Netflix clone locally on your machine, follow these steps:
 
 2.Clone the repository: Use the following command to clone this repository to your local machine:
 
-### [https://github.com/rajsrm2021/nteflix-clone-using-api.git]
+### [https://github.com/rajsrm2021/Netflix-Clone-with-React-and-API-Integration.git]
 
 3.Install dependencies: Navigate to the project's directory and run the following command to install the necessary dependencies:
 
